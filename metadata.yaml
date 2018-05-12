@@ -1,0 +1,42 @@
+_repo: Portraits-litt-raires-Tome-III_14692
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Sainte-Beuve, Charles Augustin
+    aliases:
+    - Sainte-Beuve, C.-A. (Charles Augustin)
+    - Delorme, Joseph
+    birthdate: 1804
+    deathdate: 1869
+    gutenberg_agent_id: '5145'
+    url: http://www.gutenberg.org/2009/agents/5145
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Augustin_Sainte-Beuve
+description: ''
+gutenberg_bookshelf: FR Biographie, Mémoires, Journal intime, Correspondance
+gutenberg_issued: '2005-01-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14692'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'French literature -- History and criticism'
+- !lcc 'PQ'
+- !lcsh 'Authors, French'
+tableOfContents: 'Avertissement -- Théocrite -- Virgile et Constantin le Grand, par
+  M. J.-P. Rossignol -- François Ier poëte -- Le chevalier de Méré, ou de l''Honnête
+  homme au XVIIe siècle -- Mademoiselle Aïssé -- Benjamin Constant et madame de Charrière
+  -- Madame de Krüdner et ce qu''en aurait dit Saint-Évremond -- M. de Rémusat --
+  Charles Labitte -- Réception de M. le comte Alfred de Vigny à l''Académie française.
+  M. Étienne -- Réception de M. Vitet à l''Académie française -- Lettres de Rancé
+  -- Mémoires de madame Staal-Delaunay -- L''abbé Prevost et les Bénédictins -- M.
+  Victor Cousin: Cours de l''Histoire de la Philosophie moderne -- Sur l''École française
+  d''Athènes -- M. Rodolphe Topffer -- Mort de M. Vinet -- Études sur Pascal, par
+  M. Vinet -- Relation inédite de la dernière maladie de Louis XV -- Pensées.'
+title: Portraits littéraires, Tome III
+url: http://www.gutenberg.org/ebooks/14692
